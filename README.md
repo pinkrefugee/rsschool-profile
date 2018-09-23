@@ -1,3 +1,3 @@
 # rsschool-profile
-Aliaksei Palevikou__
+Aliaksei Palevikou  
 HTML CSS Basics: https://www.codecademy.com/users/pinkrefugee/achievements
